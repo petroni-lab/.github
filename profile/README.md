@@ -6,7 +6,7 @@
 
 We build **AI-driven systems for scientific discovery** that combine multimodal reasoning, agentic exploration, tool usage, knowledge retrieval, and lab-in-the-loop interaction.
 
-Our research group established the foundational [Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401) framework. Today, we go beyond static retrieval by engineering autonomous, tool-using AI agents capable of dynamically selecting specialised biological tools, executing code, cross-referencing multi-omics data with scientific literature, and collaborating with scientists in real time.
+Our research group is engineering autonomous, tool-using AI agents capable of dynamically selecting specialized biological tools, executing code, cross-referencing multi-omics data with scientific literature, and collaborating with scientists in real time.
 
 ---
 
@@ -28,16 +28,14 @@ Our research group established the foundational [Retrieval-Augmented Generation 
 
 ***
 
-| [<img alt="EMBL AI Librarian" src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/logos/librarian.png" width="180"/>](https://github.com/petroni-lab/librarian) | [<img alt="Petroni Lab Hub" src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/logos/embl-logo.svg" width="180"/>](https://petronilab.org/) |
+| [<img alt="EMBL AI Librarian" src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/logos/librarian.png" width="180"/>](https://github.com/petroni-lab/librarian) | |
 | :---: | :---: |
-| **EMBL AI Librarian**<br/>An agent-first knowledge layer over Europe PMC for life-sciences AI agents | **PetroniLab.org**<br/>Official lab platform, interactive publication explorer, and open science portal |
-| [<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/python.svg" height="16">](https://github.com/petroni-lab/librarian)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/article.svg" height="16">](https://arxiv.org/abs/2607.28229)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/home.svg" height="16">](https://europepmc.org/) | [<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/home.svg" height="16">](https://petronilab.org/)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/python.svg" height="16">](https://github.com/petroni-lab/petronilab.github.io) |
+| **EMBL AI Librarian**<br/>An agent-first knowledge layer over Europe PMC for life-sciences AI agents |  |
+| [<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/python.svg" height="16">](https://github.com/petroni-lab/librarian)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/article.svg" height="16">](https://arxiv.org/abs/2607.28229)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/petroni-lab/.github/main/profile/icons/home.svg" height="16">](https://europepmc.org/) |  |
 
 ### 🛠️ Featured Software & Toolkits
 
 - **[librarian](https://github.com/petroni-lab/librarian)** — An agent-first knowledge layer providing programmatic tool execution and semantic evidence retrieval across 40M+ Europe PMC publications.
-- **[petronilab.github.io](https://github.com/petroni-lab/petronilab.github.io)** — The open source codebase powering the [petronilab.org](https://petronilab.org) lab website and interactive publication hub.
-
 ---
 
 # 🤝 Partners & Affiliations

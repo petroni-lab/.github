@@ -2,7 +2,7 @@
 
 # Welcome to Petroni Lab!
 
-[We are a research group](https://petronilab.org/) at the [European Molecular Biology Laboratory (EMBL Rome)](https://www.embl.org/groups/petroni).
+[We are a research group](https://petronilab.org/) at the [European Molecular Biology Laboratory](https://www.embl.org/) ([EMBL Rome — Petroni Group](https://www.embl.org/groups/petroni)).
 
 We build **AI-driven systems for scientific discovery** that combine multimodal reasoning, agentic exploration, tool usage, knowledge retrieval, and lab-in-the-loop interaction.
 
